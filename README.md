@@ -20,10 +20,16 @@ WeatherApp is an Android application that provides real-time weather information
 **ConstraintLayout:** For building a responsive and adaptive UI.<br>
 
 
-
+# Project Setup
 Clone the project and open it using Android Studio. Then open your MainActivty and paste the apikey = a9d7877ecf28b142eab78b39d9e14c03 in getLocation() function.
 
 # Run the project
 Sync the Gradle and run the project. Turn on the internet and location of your testing device. Then Install APK on your emulator or real device. 
 
 # Screenshots
+
+![PNG image](https://github.com/user-attachments/assets/e9a8809c-bfa9-4ab8-9030-7e2c1606f519)<br><br>
+![PNG image 3](https://github.com/user-attachments/assets/7b5c88bb-4029-4dad-a1fa-7b8d188189c8)<br><br>
+![PNG image 2](https://github.com/user-attachments/assets/cc16044a-5404-4f22-b77a-0a84bcfbee9f)<br><br>
+
+
