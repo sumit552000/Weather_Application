@@ -24,7 +24,7 @@ WeatherApp is an Android application that provides real-time weather information
 **Weather Data Display Tests:** Ensures that the temperature, city name, weather description, and other weather-related data are displayed on the screen.
 
 # Project Setup
-Clone the project and open it using Android Studio. Then open your MainActivty and paste the apikey = "Your api key" in getLocation() function.
+Clone the project and open it using Android Studio. Then open your MainActivty and paste the apikey = "Enter your api key here" in getLocation() function.
 
 # Run the project
 Sync the Gradle and run the project. Turn on the internet and location of your testing device. Then Install APK on your emulator or real device. 
