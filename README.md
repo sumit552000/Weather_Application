@@ -18,7 +18,10 @@ WeatherApp is an Android application that provides real-time weather information
 **SharedPreferences:** For caching weather data to provide offline access.<br>
 **ViewModel & LiveData:** To manage UI-related data in a lifecycle-conscious way.<br>
 **ConstraintLayout:** For building a responsive and adaptive UI.<br>
+**Espresso:** For UI testing <br>
 
+### UI Tests:
+**Weather Data Display Tests:** Ensures that the temperature, city name, weather description, and other weather-related data are displayed on the screen.
 
 # Project Setup
 Clone the project and open it using Android Studio. Then open your MainActivty and paste the apikey = a9d7877ecf28b142eab78b39d9e14c03 in getLocation() function.
